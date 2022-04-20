@@ -1,4 +1,4 @@
-# [How to write and run a C program in Linux]!https://vitux.com/how-to-write-and-run-a-c-program-in-linux/
+# [How to write and run a C program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)
 ### Step 1 : Install build-essential packages
 ```
 $ sudo apt-get install build-essential
